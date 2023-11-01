@@ -7,7 +7,7 @@ doNotCompress:
 isFrameworkApk: false
 packageInfo: null
 sdkInfo:
-  minSdkVersion: '28'
+  minSdkVersion: '33'
 sharedLibrary: false
 sparseResources: false
 unknownFiles: {}
